@@ -1,0 +1,1 @@
+console.log("The bus arrives the exact second you give up and start walking. Eleven steps in, it shows up, and everyone aboard watches me sprint like I insulted their mothers. I don't want your pity. I want your schedule to be a rumor.");
